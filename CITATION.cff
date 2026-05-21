@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: Economic Fragility Simulator
+message: If you use this software, please cite it using this metadata.
+type: software
+authors:
+  - given-names: Robert
+    family-names: Green
+    orcid: https://orcid.org/0009-0002-9097-1021
+repository-code: https://github.com/rjgreenresearch/economic-fragility-simulator
+license: Apache-2.0
+version: 0.1.0
+date-released: 2026-04-21

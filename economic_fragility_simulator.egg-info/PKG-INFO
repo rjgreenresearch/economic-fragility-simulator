@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: economic-fragility-simulator
+Version: 0.1.0
+Summary: Compound Economic Fragility Simulator (MTS Pillar 4)
+Author: Robert J. Green
+Author-email: robert@rjgreenresearch.org
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: pandas>=2.0
+Requires-Dist: numpy>=1.24
+Requires-Dist: scipy>=1.10
+Requires-Dist: matplotlib>=3.7
+Requires-Dist: fredapi>=0.5.0
+Requires-Dist: statsmodels>=0.14
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
