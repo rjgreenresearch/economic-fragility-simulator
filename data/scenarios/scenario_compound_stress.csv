@@ -1,0 +1,10 @@
+quarter,d1_wage_productivity,d2_consumer_balance,d3_fiscal_sustainability,d4_labour_market,d5_trade_architecture,d6_monetary_constraint,CFI_raw,CFI_normalised,delta_vs_baseline,assessment
+0,0.8012,0.2111,0.9469,0.2942,0.2736,0.5012,13.1158,0.131,0.0,ELEVATED — above COVID level (0.125)
+1,0.8049,0.2812,0.9676,0.3342,0.4736,0.6032,18.3565,0.1876,0.0567,CRITICAL — exceeds GFC peak (0.175)
+2,0.8087,0.3357,0.9867,0.3742,0.4736,0.6932,21.4794,0.2214,0.0904,CRITICAL — exceeds GFC peak (0.175)
+3,0.8124,0.3848,0.9988,0.4142,0.4736,0.6932,23.3181,0.2413,0.1103,CRITICAL — exceeds GFC peak (0.175)
+4,0.8162,0.3848,1.0,0.4142,0.4736,0.6932,23.381,0.2419,0.111,CRITICAL — exceeds GFC peak (0.175)
+5,0.8199,0.3848,1.0,0.4142,0.4736,0.6932,23.4292,0.2425,0.1115,CRITICAL — exceeds GFC peak (0.175)
+6,0.8237,0.3848,1.0,0.4142,0.4736,0.6932,23.4775,0.243,0.112,CRITICAL — exceeds GFC peak (0.175)
+7,0.8274,0.3848,1.0,0.4142,0.4736,0.6932,23.5258,0.2435,0.1125,CRITICAL — exceeds GFC peak (0.175)
+8,0.8312,0.3848,1.0,0.4142,0.4736,0.6932,23.5741,0.244,0.1131,CRITICAL — exceeds GFC peak (0.175)
